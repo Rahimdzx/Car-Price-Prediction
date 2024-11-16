@@ -26,15 +26,7 @@ The dataset contains the following features:
 ## Model
 **Multiple Linear Regression** is used to predict the car price based on the above features. The model assumes a linear relationship between the dependent variable (price) and the independent variables (features).
 
-### Formula:
-\[
-Price = \beta_0 + \beta_1 \times Feature_1 + \beta_2 \times Feature_2 + ... + \beta_n \times Feature_n + \epsilon
-\]
 
-Where:
-- \(\beta_0\) is the intercept.
-- \(\beta_1, \beta_2, ..., \beta_n\) are the coefficients of the features.
-- \(\epsilon\) is the error term.
 
 ## Technologies Used
 - **Python**: Programming language
